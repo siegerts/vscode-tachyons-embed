@@ -3,7 +3,7 @@
   "displayName": "Tachyons Embed",
   "publisher": "siegerts",
   "description": "Embed Tachyons CSS source definitions as snippets.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "SEE LICENSE IN LICENSE.txt",
   "engines": {
     "vscode": "^1.29.0"

@@ -25,7 +25,7 @@ Just start typing and the IntelliSense will match against your usual style class
 
 ## Release Notes
 
-### 0.0.1
+### 0.0.2
 
 Initial release of tachyons-embed generated from `tachyons@4.11.1`.
 
