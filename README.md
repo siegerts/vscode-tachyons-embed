@@ -6,7 +6,7 @@ This extension will embed the Tachyons class definitions and generic `@media` de
 
 For situations where you want the flexibility, composition, and great reuse of Tachyons functional CSS. These snippets are meant for use in style files and files that support `<style>` tags.
 
-Start typing `.`
+Just start typing and the IntelliSense will match against your usual style classes.
 
 ![example](images/tachyons-embed.gif)
 
@@ -28,8 +28,6 @@ Start typing `.`
 ### 0.0.1
 
 Initial release of tachyons-embed generated from `tachyons@4.11.1`.
-
----
 
 ## License
 
