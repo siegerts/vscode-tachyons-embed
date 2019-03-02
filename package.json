@@ -2,13 +2,30 @@
   "name": "tachyons-embed",
   "displayName": "Tachyons Embed",
   "publisher": "siegerts",
-  "description": "",
+  "description": "Embed Tachyons CSS source definitions as snippets.",
   "version": "0.0.1",
+  "license": "SEE LICENSE IN LICENSE.txt",
   "engines": {
     "vscode": "^1.29.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/siegerts/vscode-tachyons-embed.git"
+  },
+  "homepage": "https://github.com/siegerts/vscode-tachyons-embed/blob/master/README.md",
+  "bugs": {
+    "url": "https://github.com/siegerts/vscode-tachyons-embed/issues"
+  },
+  "galleryBanner": {
+    "color": "#F4F4F4",
+    "theme": "dark"
+  },
   "categories": [
     "Snippets"
+  ],
+  "keywords": [
+    "tachyons",
+    "css"
   ],
   "contributes": {
     "snippets": [
