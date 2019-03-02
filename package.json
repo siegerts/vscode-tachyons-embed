@@ -1,0 +1,27 @@
+{
+  "name": "tachyons-embed",
+  "displayName": "Tachyons Embed",
+  "publisher": "siegerts",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.29.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "path": "./snippets/tachyons-embed.code-snippets"
+      }
+    ]
+  },
+  "scripts": {
+    "build": "node ./scripts/build.js"
+  },
+  "devDependencies": {
+    "css": "^2.2.4",
+    "tachyons": "^4.11.1"
+  }
+}
