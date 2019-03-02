@@ -1,7 +1,13 @@
 # Change Log
-All notable changes to the "tachyons-snippets" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
-- Initial release
+
+- TBD
+
+## 0.0.1 - 2019-03-02
+
+### Added
+
+- Initial release of tachyons-embed generated from `tachyons@4.11.1`.
+- All class definitions
+- `@media` definitions
