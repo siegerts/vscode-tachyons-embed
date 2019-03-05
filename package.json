@@ -17,15 +17,21 @@
     "url": "https://github.com/siegerts/vscode-tachyons-embed/issues"
   },
   "galleryBanner": {
-    "color": "#F4F4F4",
+    "color": "#FFFFFF",
     "theme": "light"
   },
+  "icon": "images/icon.png",
   "categories": [
     "Snippets"
   ],
   "keywords": [
     "tachyons",
-    "css"
+    "css",
+    "less",
+    "javascriptreact",
+    "scss",
+    "stylus",
+    "vue"
   ],
   "contributes": {
     "snippets": [

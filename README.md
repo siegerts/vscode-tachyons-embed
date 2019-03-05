@@ -2,7 +2,7 @@
 
 ## Features
 
-This extension will embed the Tachyons class definitions and generic `@media` definitions.
+This extension will embed the Tachyons `.class` definitions and generic `@media` definitions.
 
 For situations where you want the flexibility, composition, and great reuse of Tachyons functional CSS. These snippets are meant for use in style files and files that support `<style>` tags.
 
